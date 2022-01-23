@@ -1,1 +1,1 @@
-# vue3_vuetify
+# Vue 3 + Vite
