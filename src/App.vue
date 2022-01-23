@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+    <HelloWorld msg="Welcome to Your Vue.js + Vuetify + TypeScript App" />
   </v-app>
 </template>
 
